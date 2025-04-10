@@ -1,0 +1,53 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Grilled Chicken & Veggies",
+        "category": "Dinner",
+        "image": "images/grilled-chicken.jpg",
+        "ingredients": [
+          "Chicken breast",
+          "Zucchini",
+          "Bell peppers",
+          "Olive oil",
+          "Salt",
+          "Pepper"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Chocolate Chip Cookies",
+        "category": "Dessert",
+        "image": "images/chocolate-chip-cookies.jpg",
+        "ingredients": [
+          "Flour",
+          "Sugar",
+          "Butter",
+          "Eggs",
+          "Chocolate chips"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Fruit & Yogurt Parfait",
+        "category": "Snack",
+        "image": "images/parfait.jpg",
+        "ingredients": [
+          "Greek yogurt",
+          "Granola",
+          "Strawberries",
+          "Blueberries",
+          "Honey"
+        ]
+      }
+    ],
+    "groceryList": [
+      "Chicken breast",
+      "Zucchini",
+      "Flour",
+      "Sugar",
+      "Greek yogurt",
+      "Granola"
+    ]
+  }
+  
